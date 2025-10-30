@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  margin-bottom: 20px;
+}
+
+.buttons {
+  margin-bottom: 20px;
+}
+
+.centered-table {
+  margin: auto;
+}
+
+.centered-input {
+  text-align: center;
+  width: 100%;
+}
+
+.date-picker {
+  margin-left: 10px;
+}
